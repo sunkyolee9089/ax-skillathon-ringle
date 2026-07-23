@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mailchimp 발송 준비"
+  short_description: "뉴스레터 HTML을 Mailchimp 초안 캠페인으로 준비합니다."
+  default_prompt: "뉴스레터 발송 준비"
